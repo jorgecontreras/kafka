@@ -2,6 +2,6 @@
 Snippets and notes related to Apache Kafka
 
 
-![](kafka_basics.png)
+![](notes/kafka_basics.png)
 
-![](producers_consumers.png)
+![](notes/producers_consumers.png)
