@@ -33,3 +33,6 @@ kafka-console-producer --broker-list 127.0.0.1:9092 --topic soccer
 ```
 kafka-console-consumer --bootstrap-server 127.0.0.1:9092 --topic soccer
 ```
+
+**UI Tool **
+[Kafka Tool](https://www.kafkatool.com/)
